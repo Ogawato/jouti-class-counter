@@ -6,5 +6,3 @@ $ yarn<br>
 $ yarn start<br>
 
 でいけます
-
-react2 P141らへん
